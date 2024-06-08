@@ -1,0 +1,57 @@
+[
+  {
+    "productID": "1",
+    "name": "Wireless Mouse",
+    "price": 19.99
+  },
+  {
+    "productID": "2",
+    "name": "Mechanical Keyboard",
+    "price": 59.99
+  },
+  {
+    "productID": "3",
+    "name": "Gaming Monitor",
+    "price": 199.99
+  },
+  {
+    "productID": "4",
+    "name": "External Hard Drive",
+    "price": 89.99
+  },
+  {
+    "productID": "5",
+    "name": "USB-C Hub",
+    "price": 29.99
+  },
+  {
+    "productID": "6",
+    "name": "Graphics Card",
+    "price": 399.99
+  },
+  {
+    "productID": "7",
+    "name": "Laptop Stand",
+    "price": 24.99
+  },
+  {
+    "productID": "8",
+    "name": "Webcam",
+    "price": 49.99
+  },
+  {
+    "productID": "9",
+    "name": "Bluetooth Speaker",
+    "price": 39.99
+  },
+  {
+    "productID": "10",
+    "name": "Noise Cancelling Headphones",
+    "price": 129.99
+  },
+  {
+    "productID": "11",
+    "name": "bt",
+    "price": 89
+  }
+]
